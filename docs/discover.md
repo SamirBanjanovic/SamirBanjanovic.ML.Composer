@@ -1,19 +1,25 @@
 ### Topics
 * Music/song analysis + attributes
-    * What defines mood of music - [Spotify song attributes used as basis](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)
+    * What defines mood of music - [Spotify song attributes used as basis]
         * Mode
-        * Time signature
+        * __Time signature__
         * Acousticness
         * Danceability
-        * Energy
+        * __Energy__
         * Instrumentalness
         * Liveness
         * Loudness
-        * Speechiness
+        * __Speechiness__
         * Valence
-        * Tempo
+        * __tempo__
+
+### References
+
+* [Spotify song attributes](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)
+* [Deep Learning Music](https://cs224d.stanford.edu/reports/allenh.pdf)
 #  
-* Image/Painting analysis - [Recognizing image emotions](https://arxiv.org/pdf/1705.07543.pdf)
+
+* Image/Painting analysis
     * What defines mood of painting
         * Color loudness
         * *Stroke direction coefficient* `?`
@@ -21,5 +27,6 @@
         * Stroke thickness
     - What about photographs ?
 
-            
+### References            
     
+*  [Recognizing image emotions](https://arxiv.org/pdf/1705.07543.pdf)
