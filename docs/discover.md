@@ -32,7 +32,7 @@
         * Stroke thickness
         * __Composition__ `?`
         * __Golden Rule Distribution__ `?`
-    - What about photographs ?
+    - What about photographs `?`
 
 ### References            
     
@@ -41,4 +41,10 @@
 
 
 #
+### Tools
+
+* `C#` - ML.NET
+* `JavaScript` - TensorFlow.js
+* `Python` - Keras
+* `R` -- `?`
 
