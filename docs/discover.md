@@ -1,6 +1,6 @@
 ### Topics
 * Music/song analysis + attributes
-    * What defines mood of music - [Spotify song attributes used as basis]
+    * What defines mood of music
         * Mode
         * __Time signature__
         * Acousticness
@@ -11,7 +11,7 @@
         * Loudness
         * __Speechiness__
         * Valence
-        * __tempo__
+        * __Tempo__
 
 ### References
 
@@ -23,10 +23,15 @@
     * What defines mood of painting
         * Color loudness
         * *Stroke direction coefficient* `?`
-        * Stroke hardness
+        * Stroke hardness 
         * Stroke thickness
+        * __Composition__ `?`
+        * __Golden Rule Distribution__ `?`
     - What about photographs ?
 
 ### References            
     
 *  [Recognizing image emotions](https://arxiv.org/pdf/1705.07543.pdf)
+
+#
+
